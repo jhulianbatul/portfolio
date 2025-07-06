@@ -22,7 +22,7 @@ AI Engineer & Automation Specialist with 2 years of experience and advanced skil
 - Uses BeautifulSoup, JSON-LD, Selenium (undetected-chromedriver), and Thordata to bypass Cloudflare blocks
 - Ensures accurate structured data for seamless eBay listing import
 
-![eBay Screenshot](eBay_scraper.png)
+![eBay Screenshot]
 
 ---
 
