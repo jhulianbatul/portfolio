@@ -18,24 +18,28 @@ AI Engineer & Automation Specialist with 2 years of experience and advanced skil
 
 ### eBay Bulk Scraper
 
-- Scraped approximately 2,500 product listings into eBay’s official bulk-upload CSV template within 24 hours
-- Used BeautifulSoup, JSON-LD, Selenium (undetected-chromedriver), and Thordata to bypass Cloudflare blocks
-- Ensured accurate structured data for seamless eBay listing import
+- Scrapes product listings into eBay’s official bulk-upload CSV template
+- Uses BeautifulSoup, JSON-LD, Selenium (undetected-chromedriver), and Thordata to bypass Cloudflare blocks
+- Ensures accurate structured data for seamless eBay listing import
+
+![eBay Screenshot](eBay_scraper.png)
 
 ---
 
 ### Facebook RAG Bot
 
-- Developed a GPT-4o RAG bot for automated lead capture, tracking ad sources, and generating suggested replies
+- GPT-4o RAG bot with automated lead capture, tracking ad sources, and generation of suggested replies
 - Automated price database collection and document creation (quotes, job orders, POs)
-- Integrated Python with OpenAI API, Google Sheets, and Facebook Page API
+
 
 ---
 
 ### Telegram Bot
 
-- Built an intelligent Telegram bot via n8n that handles text, voice, and photo inputs
-- Integrated GPT-4o for natural language understanding and conversation context retention
+- Intelligent Telegram bot that handles text, voice, and photo inputs
+- Integrates GPT‑4o for natural language understanding and conversation context retention
+
+![Telegram Bot Screenshot](Telegram_bot.png)
 
 ---
 
