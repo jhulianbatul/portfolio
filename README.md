@@ -30,7 +30,7 @@ AI Engineer & Automation Specialist with 2 years of experience and advanced skil
 
 - GPT-4o RAG bot with automated lead capture, tracking ad sources, and generation of suggested replies
 - Automated price database collection and document creation (quotes, job orders, POs)
-
+![facebook bot Screenshot](facebook_bot.png)
 
 ---
 
