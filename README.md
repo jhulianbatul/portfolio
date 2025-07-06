@@ -1,6 +1,3 @@
-# portfolio
-My AI Engineering and Automation Portfolio
-
 # Jhulian Carlos A. Batul
 
 **AI Engineer ▪ Automation Specialist ▪ Python Programmer**
