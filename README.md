@@ -1,6 +1,6 @@
 ## 🚀 Profile
 
-AI Engineer & Automation Specialist with 2 years of experience and advanced skills in Python, APIs, n8n, and web scraping. Developed impactful projects such as a 2,500-item eBay scraper, GPT-4o-powered RAG bot for business automation, and an intelligent Telegram bot for client engagement. Recognized for transforming complex business needs into scalable AI solutions with rapid execution and clear client communication.
+AI Engineer & Automation Specialist with 2 years of experience and advanced skills in Python, APIs, n8n, and web scraping. Developed projects such as a 2,500-item eBay scraper, GPT-4o-powered RAG bot for business automation, and an intelligent Telegram bot for client engagement. Recognized for transforming complex business needs into scalable AI solutions with rapid execution and clear client communication.
 
 ---
 
