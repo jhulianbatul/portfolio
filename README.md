@@ -39,7 +39,7 @@ AI Engineer & Automation Specialist with 2 years of experience and advanced skil
 - Intelligent Telegram bot that handles text, voice, and photo inputs
 - Integrates GPT‑4o for natural language understanding and conversation context retention
 
-![Telegram Bot Screenshot](Telegram_bot.png)
+
 
 ---
 
